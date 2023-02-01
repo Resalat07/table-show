@@ -38,7 +38,7 @@ function App() {
                 <td>{dataa.address.street}</td>
                 <td>{dataa.address.city}</td>
                 <td>{dataa.address.suite}</td>
-                <td><label htmlFor="my-modal-3" className="btn btn-sm bg-orange-600 border-none">open modal</label></td>
+                <td><label htmlFor="my-modal-3" className="btn btn-sm bg-orange-600 border-none">More Details</label></td>
               </tr>
 
 
